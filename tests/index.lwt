@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Simple LWT Application</title>
+    </head>
+    <body>
+        <?lwt write getName() /?>
+    </body>
+</html>
